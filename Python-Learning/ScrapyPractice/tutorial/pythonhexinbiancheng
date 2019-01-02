@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<title>Python高级教程- Python进阶|Scrapy教程|Python高级|Python深入 </title>
+<meta name="keywords" content="Python高级教程,python多线程,python爬虫,Scrapy教程">
+<meta name="description" content="Python高级教程，涵盖Python高级教程,python多线程,python爬虫,Scrapy教程,python网络编程 - pythontab中文网">
+<meta property="qc:admins" content="243636137760140764126375" />
+<link href="/statics/css/global.css?v=2018110501" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/1.8.0/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="/statics/js/jquery.sgallery.js"></script>
+<script type="text/javascript" src="/statics/js/backtotop.js?v=001"></script>
+</head>
+<body>
+<div class="header">
+    <div class="nav-bar">
+                <ul class="nav-site">
+            <a href="https://www.pythontab.com">
+                <li><span>首页</span></li>
+            </a>
+                        <a href="https://bbs.pythontab.com" target="_blank">
+            <li><span>Python论坛</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/pythonjichu/" target="_blank">
+            <li><span>Python基础教程</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/pythonhexinbiancheng/" target="_blank">
+            <li><span>Python高级教程</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/pythonweb/" target="_blank">
+            <li><span>Python框架</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/hanshu/" target="_blank">
+            <li><span>Python函数</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/pythongui/" target="_blank">
+            <li><span>GUI教程</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/linuxkaiyuan/" target="_blank">
+            <li><span>Linux教程</span></li>
+            </a>
+                        <a href="https://www.pythontab.com/html/php/" target="_blank">
+            <li><span>PHP教程</span></li>
+            </a>
+                        <a href="https://docs.pythontab.com" target="_blank">
+            <li><span>在线手册大全</span></li>
+            </a>
+                    </ul>
+                    </div>
+    <div class="nav-second-line">
+        <div class="logo"><a href="https://www.pythontab.com/" title="PythonTab：Python中文开发者社区门户"><img src="/statics/images/common/logo.png" alt="PythonTab：Python中文开发者社区门户"/></a></div>
+        <div class="search">
+            <form action="https://www.pythontab.com/index.php" method="get" target="_blank">
+                <input type="hidden" name="m" value="search"/>
+                <input type="hidden" name="c" value="index"/>
+                <input type="hidden" name="a" value="init"/>
+                <input type="hidden" name="typeid" value="1" id="typeid"/>
+                <input type="hidden" name="siteid" value="1" id="siteid"/>
+                <input type="submit" value="搜 索" class="button" />
+                <input type="text" class="text" name="q" id="q" value="python"/>
+            </form>
+            <ul class="hot-search">
+                <li>热搜:</li>
+                <li><a href="/index.php?m=search&c=index&a=init&typeid=1&q=scrapy">scrapy</a></li>
+                <li><a href="/index.php?m=search&c=index&a=init&typeid=1&q=urllib2">urllib2</a></li>
+                <li><a href="/index.php?m=search&c=index&a=init&typeid=1&q=yield">yield</a></li>
+                <li><a href="/index.php?m=search&c=index&a=init&typeid=1&q=except">except</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="bk3"></div>
+</div>
+<div style="width: 1180px; margin: 0 auto;">
+    <script>
+	document.writeln('<div style="margin-bottom: 3px;"><a href="http://www.magedu.com/kczx/pythonkf.html?wztf_www.pythontab.com_2018.03.14" onclick="javascript:trackme(\'mage\')" target="_blank"><img width="100%" src="/statics/images/goodad/mage03.png" /></a></div>');
+    </script>
+</div>
+
+<!--main-->
+<div class="main" id="jmain">
+    <div class="col-left">
+        <div class="crumbs"><a href="https://www.pythontab.com">首页</a><span> > </span><a href="https://www.pythontab.com/html/pythonhexinbiancheng/">Python高级教程</a> >  列表</div>
+                <ul class="list lh24 f14" id="catlist">
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1031/1371.html" target="_blank" ><h2>Python中lambda表达式的优缺点及使用场景</h2></a>
+                <p>lambda表达式是什么？lambda 表达式是 Python 中创建匿名函数的一个特殊语法  我称 lambda 语法本身为 lambda 表达式，而它返回的   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1031/1371.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1026/1369.html" target="_blank" ><h2> Python2 和 Python3 的区别及兼容技巧</h2></a>
+                <p>前言最近 Python 之父 Guido van Rossum（龟爷）终于在 Python 官方邮件组落实了 Python 2 7 的终焉之日（EOL）。说的是 Python   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1026/1369.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1022/1365.html" target="_blank" ><h2>问题解决zipimport.ZipImportError: can‘t decompress data; zlib not availabl</h2></a>
+                <p>前面写过一篇简单方法安装pip的文章：https:  www pythontab com html 2015 pythonhexinbiancheng_1012 963 html但是在某些环境下执行安装   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1022/1365.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1015/1362.html" target="_blank" ><h2>Python判断对象是否为文件对象(file object)的三种方法</h2></a>
+                <p>文件操作是开发中经常遇到的场景，那么如何判断一个对象是文件对象呢？下面我们总结了3种常见的方法。方法1：比较类型第一种方法，就是判断   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1015/1362.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1010/1360.html" target="_blank" ><h2>问题解决local variable 'xxx' referenced before assignment</h2></a>
+                <p>问题在写代码是遇到了一个奇怪的问题，local variable &amp; 39;siteName&amp; 39; referenced before assignment， 特此记录一下，这里其实   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1010/1360.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1009/1359.html" target="_blank" ><h2>Python3 关键字nonlocal和global的用法与区别</h2></a>
+                <p>关键字nonlocal在Python 2 x中，闭包只能读外部函数的变量，而不能改写它。为了解决这个问题，Python 3 x引入了nonlocal关键字，在闭包内   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1009/1359.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0926/1355.html" target="_blank" ><h2>sublime text3 显示空格和Tab</h2></a>
+                <p>1  sublime显示制表符和空格打开sublime设置Preferences -&gt; setting, 在配置最后添加&quot;draw_white_space&quot;:&quot;all&quot;,最后的配置类似：{&quot;them   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0926/1355.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0907/1346.html" target="_blank" ><h2>使用Python创建简单的HTTP服务器</h2></a>
+                <p>如果需要一个简单的Web Server，而不是安装那些复杂的HTTP服务程序，比如：Apache，Nginx等。那么可以使用Python自带的包完成一个简单的内   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0907/1346.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0828/1340.html" target="_blank" ><h2>Python读取大文件的"坑“与内存占用检测</h2></a>
+                <p>python读写文件的api都很简单，一不留神就容易踩&rdquo;坑&ldquo;。笔者记录一次踩坑历程，并且给了一些总结，希望到大家在使用python的过程之中，能   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0828/1340.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                    <li>
+                <h3>Python高级教程</h3>
+                <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0821/1337.html" target="_blank" ><h2>Python网络编程实现TCP和UDP连接</h2></a>
+                <p>Python网络编程实现TCP和UDP连接, 使用socket模块， 所有代码在python3下测试通过。实现TCP ! usr bin envpython3 -*-coding:utf-8-*-imp   <a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_0821/1337.html" class="content_detail" target="_blank">[详细]</a></p>
+            </li>
+                </ul>
+
+        <div id="pages" class="text-c"><a class="a1">257条</a> <a href="/html/pythonhexinbiancheng/index.html" class="a1">上一页</a> <span>1</span> <a href="/html/pythonhexinbiancheng/2.html">2</a> <a href="/html/pythonhexinbiancheng/3.html">3</a> <a href="/html/pythonhexinbiancheng/4.html">4</a> <a href="/html/pythonhexinbiancheng/5.html">5</a> <a href="/html/pythonhexinbiancheng/6.html">6</a> <a href="/html/pythonhexinbiancheng/7.html">7</a> <a href="/html/pythonhexinbiancheng/8.html">8</a> <a href="/html/pythonhexinbiancheng/9.html">9</a> <a href="/html/pythonhexinbiancheng/10.html">10</a> ..<a href="/html/pythonhexinbiancheng/26.html">26</a> <a href="/html/pythonhexinbiancheng/2.html" class="a1">下一页</a></div>
+  </div>
+    <div class="col-auto">
+	<div id="coop-top-right">
+	</div>
+        <div class="box-v3">
+            <h5 class="box-head">频道总排行</h5>
+                         <div class="content" id="right-first">
+                <ul class="list">
+			<li><a href="https://www.ricequant.com/courses/?utm_source=tab" target="_blank" style="font-weight:bold;"  onclick="trackme('lh-list')">十分钟学会用Python玩股票</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2012/pythonhexinbiancheng_1220/22.html" target="_blank">python下redis安装和使用</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2012/pythonhexinbiancheng_1220/21.html" target="_blank">ImportError: No module named setuptools 解决方法</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2012/pythonhexinbiancheng_1220/9.html" target="_blank">python 在互联网应用是如此强大</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0314/298.html" target="_blank">python读取和生成excel文件</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0403/333.html" target="_blank">python多线程编程2&mdash;线程的创建、启动...</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0131/194.html" target="_blank">分别用python2和python3伪装浏览器爬...</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0120/149.html" target="_blank">python批量抓取美女图片</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0126/174.html" target="_blank">Python简单两步实现天气爬虫采集器</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0510/392.html" target="_blank">成人网站性能提升 20 倍之经验谈 [Python]</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0530/422.html" target="_blank">python抓取google搜索结果</a></li>
+                                    </ul>
+            </div>
+                    </div>
+        <div class="bk10"></div>
+        <div class="box-v3">
+            <h5 class="box-head">频道本月排行</h5>
+                         <div class="content">
+                <ul class="list">
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0403/333.html" class="title" title="python多线程编程2—线程的创建、启动、挂起和退出">python多线程编程2&mdash;线程的创建、启动...</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0814/541.html" class="title" title="python爬虫框架scrapy实例详解">python爬虫框架scrapy实例详解</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0314/298.html" class="title" title="python读取和生成excel文件">python读取和生成excel文件</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0120/149.html" class="title" title="python批量抓取美女图片">python批量抓取美女图片</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0131/194.html" class="title" title="分别用python2和python3伪装浏览器爬取网页内容">分别用python2和python3伪装浏览器爬...</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0830/551.html" class="title" title="一步步来用C语言来写python扩展">一步步来用C语言来写python扩展</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0510/392.html" class="title" title="成人网站性能提升 20 倍之经验谈 [Python]">成人网站性能提升 20 倍之经验谈 [Python]</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0823/547.html" class="title" title="用python实现的抓取腾讯视频所有电影的爬虫">用python实现的抓取腾讯视频所有电影的爬虫</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0927/573.html" class="title" title="用python 装饰器打log">用python 装饰器打log</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0218/232.html" class="title" title=" Python多线程异步任务队列（实例）"> Python多线程异步任务队列（实例）</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0530/422.html" class="title" title="python抓取google搜索结果">python抓取google搜索结果</a></li>
+                                        <li><a href="https://www.pythontab.com/html/2013/pythonhexinbiancheng_0121/154.html" class="title" title="python中json对象转换出错解决方法">python中json对象转换出错解决方法</a></li>
+                                    </ul>
+            </div>
+                    </div>
+        <div class="bk10"></div>
+        <div class="box-v3" >
+            <h5 class="box-head"><span class="left_title">最新文章</span></h5>
+            <div class="content">
+                <ul class="list">
+                                                            <li><a href="https://www.pythontab.com/html/2018/php_1108/1375.html" target="_blank" title="PHP文件类型检查及fileinfo模块安装使用">PHP文件类型检查及fileinfo模块安装使用</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonjichu_1106/1374.html" target="_blank" title="Python 中__new__方法详解及使用">Python 中__new__方法详解及使用</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/linuxkaiyuan_1102/1373.html" target="_blank" title="删除大量文件Argument list too long错误解决">删除大量文件Argument list too long错误解决</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/ITzixun_1102/1372.html" target="_blank" title="ROS 和Web 带来更智能的机器人">ROS 和Web 带来更智能的机器人</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1031/1371.html" target="_blank" title="Python中lambda表达式的优缺点及使用场景">Python中lambda表达式的优缺点及使用场景</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/hanshu_1029/1370.html" target="_blank" title="Python函数每日一讲 - frozenset集合函数入门及实例">Python函数每日一讲 - frozenset集...</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1026/1369.html" target="_blank" title=" Python2 和 Python3 的区别及兼容技巧"> Python2 和 Python3 的区别及兼容技巧</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/ITzixun_1026/1368.html" target="_blank" title="Web技术持续演进，英特尔助力其随变而变">Web技术持续演进，英特尔助力其随变而变</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/ITzixun_1024/1367.html" target="_blank" title="百度为AI界打造“同传高手”或将缓解同传人员稀缺问题">百度为AI界打造&ldquo;同传高手&rdquo;或将缓解...</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonjichu_1024/1366.html" target="_blank" title="解决Python找不到ssl模块问题 No module named _ssl">解决Python找不到ssl模块问题 No module named _ssl</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonhexinbiancheng_1022/1365.html" target="_blank" title="问题解决zipimport.ZipImportError: can‘t decompress data; zlib not availabl">问题解决zipimport.ZipImportError: ...</a></li>
+                                            <li><a href="https://www.pythontab.com/html/2018/pythonjichu_1019/1364.html" target="_blank" title="Python中eval与exec的使用及区别">Python中eval与exec的使用及区别</a></li>
+                                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer-content">
+        <div class="footer-left">
+                        <ul>
+                            <li><a rel="nofollow" href="https://www.pythontab.com/html/about/aboutus/" target="_blank" >关于我们</a></li>
+                            <li><a rel="nofollow" href="https://www.pythontab.com/html/about/contactus/" target="_blank" >联系方式</a></li>
+                            <li><a rel="nofollow" href="https://www.pythontab.com/index.php?m=content&c=index&a=lists&catid=4" target="_blank" >版权声明</a></li>
+                            <li><a rel="nofollow" href="/tools/pytabcoder/" target="_blank" >测试工具</a></li>
+                <li><a rel="nofollow" href="/pytools/" target="_blank" >资源合集</a></li>
+            </ul>
+                    </div>
+        <ul class="cats">
+            <li><a href="/html/pythonjichu/" target="_blank" >Python入门</a></li>
+            <li><a href="/html/pythonhexinbiancheng/" target="_blank" >Python进阶</a></li>
+            <li><a href="/html/pythonweb/" target="_blank" >Python框架</a></li>
+            <li><a href="/html/pythongui/" target="_blank" >Python GUI</a></li>
+            <li><a href="/html/hanshu/" target="_blank" >Python函数</a></li>
+        </ul>
+
+        <ul class="cats">
+            <li><a href="https://docs.pythontab.com/" target="_blank" >在线手册</a></li>
+            <li><a href="https://bbs.pythontab.com/blueelchina" target="_blank" >Python论坛</a></li>
+            <li><a href="html/mysql" target="_blank" >MySQL教程</a></li>
+            <li><a href="/html/linuxkaiyuan/" target="_blank" >Linux教程</a></li>
+            <li><a href="/html/php" target="_blank" >PHP教程</a></li>
+        </ul>
+
+        <div class="copy">
+            <p>联系方式: </p>
+            <p><a rel="nofollow" href="https://weibo.com/blueelchina" target="_blank" >官方微博</a></p>
+            <p>QQ : 20769164</p>
+            <p>Email : market@pythontab.com</p>
+            <p>Copyright &copy; 2012 - 2018 PYTHONTAB.COM. </p>
+        </div>
+
+        <div class="footer-weixin">
+            <p >官方微信</p>
+            <img src="/statics/images/common/py_weixin_qr_258.jpg" height="100" />
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F141f4ed9eb11f462fa19fdd960639134' type='text/javascript'%3E%3C/script%3E"));
+
+    $('.logo a').click(function (){
+        _hmt.push(['_trackEvent', 'logo', 'click'])
+    });
+    $('.search .button').click(function (){
+        _hmt.push(['_trackEvent', 'search_btn', 'click'])
+    });
+
+    function trackme(trackName){
+        _hmt.push(['_trackEvent', 'track-' + trackName, 'click']);
+    }
+  
+    /*$('#head-bottom').on('click', 'div', function(){
+	trackme('coop');	
+    });
+    */
+
+</script>
+
+<script type="text/javascript">
+$(function(){
+	$(".picbig").each(function(i){
+		var cur = $(this).find('.img-wrap').eq(0);
+		var w = cur.width();
+		var h = cur.height();
+	   $(this).find('.img-wrap img').LoadImage(true, w, h,'/statics/images/msg_img/loading.gif');
+	});
+})
+$(function(){
+    setTimeout(function(){
+    	if ($('#head-bottom').height() == 0){
+        	_hmt.push(['_trackEvent', 'aaaddd-track', 'block-yes']);
+    	}else{
+		_hmt.push(['_trackEvent', 'aaaddd-track', 'block-no']);
+	}
+    }
+    ,100);
+});
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</body>
+</html>

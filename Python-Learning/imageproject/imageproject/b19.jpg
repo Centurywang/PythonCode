@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="X-PWS-Scheme" content="version=1.0;meta=X-PWS-Scheme;header=X-PWS-Scheme;scheme=http;apiuri=/portal/api;server=219.146.3.53;host=219.146.3.53;port=9088">
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../css/main.css" rel="stylesheet">
+    <link href="../../favicon.ico" rel="icon" type="image/x-icon">
+    <title>Portal主页</title>
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="javascript:void(0);">欢迎使用</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="portal-banner" class="banner download-background-img"></div>
+            </div>
+
+            <div id="wechat-wifi" class="col-sm-6">
+            </div>
+
+            <div id="download-app" class="col-sm-6">
+                <div class="download-content">
+                    <div><h4 style="font-family: '黑体',serif;">下载客户端</h4></div>
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6">
+                            <a class="btn btn-primary btn-md btn-download" href="https://itunes.apple.com/cn/app/wenet/id1187814835" target="_blank">
+                                <span>iOS</span>
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-sm-6">
+                            <a class="btn btn-primary btn-md btn-download" href="/apps/android" target="_blank">
+                                <span>Android</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6">
+                            <a class="btn btn-primary btn-md btn-download" href="/apps/windows" target="_blank">
+                                <span>Windows (PC)</span>
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-sm-6">
+                            <a class="btn btn-primary btn-md btn-download" href="/apps/mac" target="_blank">
+                                <span>OS X (Mac)</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

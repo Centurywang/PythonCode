@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b010099a-be12-4dce-af36-2a765d45b268" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/quotesbot/quotesbot/spiders/toscrape-xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/quotesbot/quotesbot/spiders/toscrape-xpath.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonCode$getPicture.coverage" NAME="getPicture Coverage Results" MODIFIED="1542717682490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/getPicture" />
+    <SUITE FILE_PATH="coverage/PythonCode$BaiduOcr.coverage" NAME="BaiduOcr Coverage Results" MODIFIED="1542338629343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice" />
+    <SUITE FILE_PATH="coverage/PythonCode$downloadPicture.coverage" NAME="downloadPicture Coverage Results" MODIFIED="1544671598639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app" />
+    <SUITE FILE_PATH="coverage/PythonCode$getFileName.coverage" NAME="getFileName Coverage Results" MODIFIED="1543294191307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice/BaiduOcr" />
+    <SUITE FILE_PATH="coverage/PythonCode$getPageUrls.coverage" NAME="getPageUrls Coverage Results" MODIFIED="1544580052512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app" />
+    <SUITE FILE_PATH="coverage/PythonCode$books_xpath.coverage" NAME="books-xpath Coverage Results" MODIFIED="1542624482764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/imageproject/imageproject/spiders" />
+    <SUITE FILE_PATH="coverage/PythonCode$main.coverage" NAME="main Coverage Results" MODIFIED="1542716671801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/project11_20/project11_20" />
+    <SUITE FILE_PATH="coverage/PythonCode$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1542970602905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Game/alien_invasion" />
+    <SUITE FILE_PATH="coverage/PythonCode$dmoz_spider.coverage" NAME="dmoz_spider Coverage Results" MODIFIED="1542157775503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/ScrapyPractice/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/PythonCode$manage.coverage" NAME="manage Coverage Results" MODIFIED="1542085746268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentInformationManageMentSystem" />
+    <SUITE FILE_PATH="coverage/PythonCode$quotes.coverage" NAME="quotes Coverage Results" MODIFIED="1542535312407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/quotetutorial/quotetutorial/spiders" />
+    <SUITE FILE_PATH="coverage/PythonCode$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1542624995842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/imageproject/imageproject" />
+    <SUITE FILE_PATH="coverage/PythonCode$getText.coverage" NAME="getText Coverage Results" MODIFIED="1542716264281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/getText" />
+    <SUITE FILE_PATH="coverage/PythonCode$imagePro.coverage" NAME="imagePro Coverage Results" MODIFIED="1542595454748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/imageproject/imageproject/spiders" />
+    <SUITE FILE_PATH="coverage/PythonCode$course.coverage" NAME="course Coverage Results" MODIFIED="1541665973221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentInformationManageMentSystem" />
+    <SUITE FILE_PATH="coverage/PythonCode$test.coverage" NAME="test Coverage Results" MODIFIED="1542608070640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning/imageproject/imageproject" />
+    <SUITE FILE_PATH="coverage/PythonCode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1542933036252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testa" />
+    <SUITE FILE_PATH="coverage/PythonCode$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1542338237872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-Learning" />
+    <SUITE FILE_PATH="coverage/PythonCode$YoudaoAPI.coverage" NAME="YoudaoAPI Coverage Results" MODIFIED="1542765926174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice/YoudaoFanyi" />
+    <SUITE FILE_PATH="coverage/PythonCode$BaiduOcr__1_.coverage" NAME="BaiduOcr (1) Coverage Results" MODIFIED="1542338876348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonPractice/BaiduOcr" />
+    <SUITE FILE_PATH="coverage/PythonCode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1542710048520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testa" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1466308076">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Manage" value="136" />
+          <entry key="py" value="1949" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2085" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonCode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUIObj/TkinterObj/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyPythonPractice" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python-Learning/imageproject/imageproject/spiders/books-xpath.py" />
+        <option value="$PROJECT_DIR$/quotesbot/quotesbot/spiders/toscrape-xpath.py" />
+        <option value="$PROJECT_DIR$/testa/test1.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/ScrapyPractice/tutorial/tutorial/spiders/dmoz_spider.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/ScrapyPractice/tutorial/tutorial/spiders/getText.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/book1.json" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/xiaoyuan.json" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/home.json" />
+        <option value="$PROJECT_DIR$/Python-Learning/getText/getText.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/main.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/image01.json" />
+        <option value="$PROJECT_DIR$/Python-Learning/project11_20/project11_20/spiders/getText.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/getPicture.py" />
+        <option value="$PROJECT_DIR$/Python-Learning/getPicture/getPicture.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/YoudaoFanyi/YoudaoAPI.py" />
+        <option value="$PROJECT_DIR$/testa/test2.py" />
+        <option value="$PROJECT_DIR$/testa/zz.java" />
+        <option value="$PROJECT_DIR$/Game/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/Game/alien_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/Game/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/BaiduOcr/data.txt" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/BaiduOcr/BaiduOcr.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/BaiduOcr/getFileName.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/BaiduOcr/countWords.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/myThread.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/meizituTest.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/tools/myRequest.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/getPageUrls.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/myThread.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/PictureUrls.json" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/downloadPicture.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/myRequest.py" />
+        <option value="$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/getPictureUrls.py" />
+        <option value="$PROJECT_DIR$/Python实训第二版/test1.py" />
+        <option value="$PROJECT_DIR$/第一学期Python实训/data/StudentsInfo.json" />
+        <option value="$PROJECT_DIR$/第一学期Python实训/SaveInfo.py" />
+        <option value="$PROJECT_DIR$/第一学期Python实训/FileUse.py" />
+        <option value="$PROJECT_DIR$/微信itchat/entryLevel/test1.py" />
+        <option value="$PROJECT_DIR$/testa/tkinterTest/test1.py" />
+        <option value="$PROJECT_DIR$/testa/tkinterTest/test2.py" />
+        <option value="$PROJECT_DIR$/GetGwebsitesPicture/package/_Requests.py" />
+        <option value="$PROJECT_DIR$/GetGwebsitesPicture/package/RequestsM.py" />
+        <option value="$PROJECT_DIR$/GetGwebsitesPicture/RequestsM.py" />
+        <option value="$PROJECT_DIR$/GetGwebsitesPicture/test.py" />
+        <option value="$PROJECT_DIR$/GetGwebsitesPicture/getPageUrls.py" />
+        <option value="$PROJECT_DIR$/PyQt5Obj/test1.py" />
+        <option value="$PROJECT_DIR$/PyQt5Obj/JPython.py" />
+        <option value="$PROJECT_DIR$/第一学期Python实训/Manage.py" />
+        <option value="$PROJECT_DIR$/GUIObj/TkinterObj/test1.py" />
+        <option value="$PROJECT_DIR$/第一学期Python实训/Student.py" />
+        <option value="$PROJECT_DIR$/GUIObj/TkinterObj/test2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="535" />
+    <option name="y" value="80" />
+    <option name="width" value="1270" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="GetGwebsitesPicture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCode" type="462c0819:PsiDirectoryNode" />
+              <item name="GUIObj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/StudySoftware/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Code\PythonCode\PyQt5Obj" />
+      <recent name="D:\Programming\Code\PythonCode\GetGwebsitesPicture" />
+      <recent name="D:\Programming\Code\PythonCode\Game\alien_invasion\images" />
+      <recent name="D:\Programming\Code\PythonCode\Python-Learning\getPicture" />
+      <recent name="D:\Programming\Code\PythonCode\Python-Learning\project11_20\project11_20" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Code\PythonCode\GUIObj" />
+      <recent name="D:\Programming\Code\PythonCode\GetGwebsitesPicture" />
+      <recent name="D:\Programming\Code\PythonCode\MyPythonPractice\GetMeizitu\app" />
+      <recent name="D:\Programming\Code\PythonCode\MyPythonPractice\GetMeizitu\tools" />
+      <recent name="D:\Programming\Code\PythonCode\Python-Learning\getPicture" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test2">
+    <configuration name="Manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一学期Python实训" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一学期Python实训/Manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getPageUrls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GetGwebsitesPicture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetGwebsitesPicture/getPageUrls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUIObj/TkinterObj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUIObj/TkinterObj/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5Obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5Obj/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUIObj/TkinterObj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUIObj/TkinterObj/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.getPageUrls" />
+      <item itemvalue="Python.Manage" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.test1 (1)" />
+      <item itemvalue="Python.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.Manage" />
+        <item itemvalue="Python.test1 (1)" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.getPageUrls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b010099a-be12-4dce-af36-2a765d45b268" name="Default Changelist" comment="" />
+      <created>1541604313645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541604313645</updated>
+      <workItem from="1542855073007" duration="1417000" />
+      <workItem from="1542897491960" duration="1385000" />
+      <workItem from="1542932846148" duration="1122000" />
+      <workItem from="1542957841617" duration="6614000" />
+      <workItem from="1543123366505" duration="2018000" />
+      <workItem from="1543158167226" duration="1128000" />
+      <workItem from="1543196080023" duration="3151000" />
+      <workItem from="1543286644939" duration="3561000" />
+      <workItem from="1543323979781" duration="1125000" />
+      <workItem from="1543364863136" duration="842000" />
+      <workItem from="1543408422783" duration="2200000" />
+      <workItem from="1543458609710" duration="495000" />
+      <workItem from="1544578288303" duration="11119000" />
+      <workItem from="1544669552883" duration="13083000" />
+      <workItem from="1544705029730" duration="89000" />
+      <workItem from="1545006966454" duration="4253000" />
+      <workItem from="1545011275950" duration="5995000" />
+      <workItem from="1545107462076" duration="4068000" />
+      <workItem from="1545179290090" duration="2249000" />
+      <workItem from="1545385382206" duration="881000" />
+      <workItem from="1545454491634" duration="596000" />
+      <workItem from="1545573648398" duration="3375000" />
+      <workItem from="1545649380721" duration="653000" />
+      <workItem from="1545978672935" duration="2542000" />
+      <workItem from="1546093268687" duration="4707000" />
+      <workItem from="1546140955690" duration="7679000" />
+      <workItem from="1546163948441" duration="1307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87654000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.20643431" />
+      <window_info id="Structure" order="1" sideWeight="0.5072464" side_tool="true" weight="0.16085792" />
+      <window_info id="Favorites" order="2" sideWeight="0.505176" side_tool="true" weight="0.15884718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32775453" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27057183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39748955" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.38069215" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32673267" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32635984" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49932975" visible="true" weight="0.25815603" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32914925" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49685535" visible="true" weight="0.14544237" />
+      <window_info id="Structure" order="1" sideWeight="0.5031447" side_tool="true" weight="0.17292225" />
+      <window_info id="Favorites" order="2" sideWeight="0.5031447" side_tool="true" weight="0.17292225" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20781033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.29567644" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32635984" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python-Learning/getPicture/image01.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Learning/getText/getText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Learning/getText/cityText/两姐妹.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/countWords.py" />
+    <entry file="file://$PROJECT_DIR$/Game/alien_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/Images/02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/Images/01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/alien_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/alien_invasion/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/keys/mypasswd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="88" selection-start-column="88" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/getFileName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/BaiduOcr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/BaiduOcr/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/meizituTest2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/PictureUrls.json" />
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/downloadPicture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/myThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/pageUrls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/PictureUrls1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/myRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/meizituTest3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/HtmlUrls.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/meizituTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python实训第二版/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentInformationManageMentSystem/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentInformationManageMentSystem/useMysql2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentInformationManageMentSystem/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentInformationManageMentSystem/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentInformationManageMentSystem/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信itchat/entryLevel/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Microsoft Visual Studio/Shared/Anaconda3_64/Lib/tkinter/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testa/tkinterTest/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testa/tkinterTest/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIObj/PyQt5Obj/video camera.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIObj/PyQt5Obj/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIObj/PyQt5Obj/JPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetGwebsitesPicture/getPageUrls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/getPictureUrls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="103" column="19" selection-start-line="89" selection-start-column="8" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonPractice/GetMeizitu/app/getPageUrls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetGwebsitesPicture/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetGwebsitesPicture/myThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/StudySoftware/Anaconda3/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="2258" selection-start-line="2258" selection-end-line="2258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一学期Python实训/data/StudentsInfo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一学期Python实训/Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一学期Python实训/FileUse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIObj/TkinterObj/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一学期Python实训/Manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3292">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetGwebsitesPicture/RequestsM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIObj/TkinterObj/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
